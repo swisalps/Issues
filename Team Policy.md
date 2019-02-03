@@ -16,3 +16,5 @@ The following policies are meant to guide members of the team according to their
 6.  Create group meeting notes following every meeting.
 
 7.  Divide project work fairly and appropriately. We should do our best to each put an equal amount of effort into this project. 
+
+8. Team members will update project Kanban board prior to team meetings, more frequently if particularly active.
