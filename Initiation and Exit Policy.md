@@ -4,6 +4,7 @@ The following policies are meant to guide new members to become more initiated w
 1. Contact information will be given to the team for organization. This includes phone number, github address, and email address (we should know their name already).
 2. New member will be added to the group message, as well as the Git organization.
 3. The new member will be briefed on current progress and their assignment within the project by departing member.
+4. Review new members strengths and consider those when assigning work
 
   Exiting
 1. Departing team member will be removed from the Git organization and group messaging.
