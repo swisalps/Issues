@@ -13,7 +13,7 @@ The following policies are meant to guide members of the team according to their
 
 5.  If a member should miss a meeting, other available members will give him/her an update on progress.
 
-6.  Create group meeting notes following every meeting.
+6.  Create group meeting notes following every meeting in google doc for group notes.
 
 7.  Divide project work fairly and appropriately. We should do our best to each put an equal amount of effort into this project. 
 
