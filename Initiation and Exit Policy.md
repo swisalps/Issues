@@ -9,4 +9,5 @@ The following policies are meant to guide new members to become more initiated w
   Exiting
 1. Departing team member will be removed from the Git organization and group messaging.
 2. Departing member will give the rest of the group a full update on their progress in the project thus far
-3. Departing member’s roles will be divided equally among the remaining members.
+3. Departing member will give an indepth report to their replacement about the status of their work
+4. Departing member’s roles will be divided equally among the remaining members.
